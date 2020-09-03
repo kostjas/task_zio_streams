@@ -1,1 +1,2 @@
-# task_zio_streams
+# task_zio
+test project to play a bit with zio
